@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "skillfactory task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltynbekShagdarbek/nodejs.git"
+  },
+  "author": "Altynbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AltynbekShagdarbek/nodejs/issues"
+  },
+  "homepage": "https://github.com/AltynbekShagdarbek/nodejs#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
